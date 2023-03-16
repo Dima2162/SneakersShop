@@ -1,0 +1,52 @@
+[
+	{
+		"model": "Air Max 90",
+		"price": 12999,
+		"image": "/img/sneakers/1.jpg"
+	},
+	{
+		"model": "Nike Air Max 270",
+		"price": 13900,
+		"image": "/img/sneakers/2.jpg"
+	},
+	{
+		"model": "Nike Blazer Mid Suede",
+		"price": 8499,
+		"image": "/img/sneakers/3.jpg"
+	},
+	{
+		"model": "Puma X Aka Boku Future Rider",
+		"price": 8999,
+		"image": "/img/sneakers/4.jpg"
+	},
+	{
+		"model": "Under Armour Curry 8",
+		"price": 15199,
+		"image": "/img/sneakers/5.jpg"
+	},
+	{
+		"model": "Nike Kyrie 7",
+		"price": 11299,
+		"image": "/img/sneakers/6.jpg"
+	},
+	{
+		"model": "Jordan Air Jordan 11",
+		"price": 10799,
+		"image": "/img/sneakers/7.jpg"
+	},
+	{
+		"model": "Nike LeBron XVIII",
+		"price": 16499,
+		"image": "/img/sneakers/8.jpg"
+	},
+	{
+		"model": "Nike Lebron XVIII Low",
+		"price": 13999,
+		"image": "/img/sneakers/9.jpg"
+	},
+	{
+		"model": "Nike Kyrie Flytrap IV",
+		"price": 11299,
+		"image": "/img/sneakers/10.jpg"
+	}
+]
